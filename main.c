@@ -2,5 +2,5 @@
 int main (int argo, char ++argv)
 {
 printf ("Hello wodld!\n")
-return 0;
+return 1;
 }
