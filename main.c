@@ -11,4 +11,5 @@ printf("Now enter your last name: ");
 gets(last);/*butter overflow? what's that?*/
 printf("Hello %s %s!\n", first, last);
 return 1;
+
 }
